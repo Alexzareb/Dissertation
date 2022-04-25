@@ -1,4 +1,4 @@
-# Dissertation
+# Dissertation - Please read in raw format for better clarity.
 This is a Repository compiling all my Data and Code from my adventures through my Dissertation.
 
 
@@ -61,3 +61,5 @@ Precipitation Extraction:
 Info: Extraction of precipitation combining the 2 files, conversion to 1-Titan-year average, extraction of corresponding precipitation values for each fluvial network, creation of correlation graph at different confidence thresholds for precipitation and c parameter.
 Dependencies: full_phys.hydro.k5e-5.y231-240,241-250
 Library Dependencies: netCDF4, scipy.io, numpy, cartopy, cartopy.feature, cartopy.crs, matplotlib.pyplot, xarray, metpy.cbook, numpy, matplotlib.pyplot, pandas, seaborn, matplotlib.patches, matplotlib.lines, sklearn.linear_model, scipy
+
+Enjoy ;)
