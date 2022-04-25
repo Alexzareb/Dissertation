@@ -34,7 +34,7 @@ Breakdown of files available:
 
 Tokunaga Analysis-A1~L1
 Info: These files use tokunaga_fns.py to calculate the R2, a, c values for the fluvial network.
-Dependencies: tokunaga_fns.py
+Dependencies: tokunaga_fns.py, north and south folders in the same path location as the Analysis files.
 Library Dependencies: tokunaga_fns, numpy, matplotlib.pyplot
 
 North and South Folders
